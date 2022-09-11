@@ -2,13 +2,13 @@
 <h1 align="center">Ola 👋, sou DIVAN MATTA</h1>
 <h3 align="center">Apaixonado por desenvolvimento de sistemas</h3>
 
-- 🔭 Estou trabalhando no setor publico [lista de vacinados e estoque de vacinas](http://covid.presidentemedici.ro.gov.br/)
+- 🔭 Estou trabalhando no setor publico veja alguns do meu trabalhos: [lista de vacinados e estoque de vacinas](http://covid.presidentemedici.ro.gov.br/)
 
-- 🌱 Estou estudando **Flutter, python**
+- 🌱 Estudando: **Flutter, python**
 
-- 👯 Suporte tecnico [PEC-ESUS APS](https://sisaps.saude.gov.br/esus/)
+- 👯 Suporte tecnico no sistema: [PEC-ESUS APS](https://sisaps.saude.gov.br/esus/)
 
-- 🤝 Suporte tecnico [SIPNI](http://sipni.datasus.gov.br/si-pni-web/faces/inicio.jsf)
+- 🤝 Suporte tecnico no sistema: [SIPNI](http://sipni.datasus.gov.br/si-pni-web/faces/inicio.jsf)
 
 - 👨‍💻 Videos aulas no youtube [https://www.youtube.com/watch?v=78WHKmXbs9E](https://www.youtube.com/watch?v=78WHKmXbs9E)
 
